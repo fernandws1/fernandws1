@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧑‍💻Eduarda Fernandes
 
 <!--
 **fernandws1/fernandws1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
